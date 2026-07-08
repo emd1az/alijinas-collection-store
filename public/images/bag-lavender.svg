@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#EEE7FF"/>
+  <rect x="210" y="390" width="480" height="405" rx="70" fill="#FFFFFF"/>
+  <path d="M335 410c0-90 47-138 115-138s115 48 115 138" fill="none" stroke="#CDBEFF" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="330" cy="600" r="34" fill="#F7BFD2"/><circle cx="570" cy="600" r="34" fill="#F7BFD2"/>
+  <text x="450" y="940" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Cloud Tote</text>
+</svg>

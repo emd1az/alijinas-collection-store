@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <path d="M450 158c-60 0-108 48-108 108v98L230 810c-12 48 24 94 73 94h294c49 0 85-46 73-94L558 364v-98c0-60-48-108-108-108Z" fill="#FFFFFF"/>
+  <g fill="#F7BFD2">
+    <circle cx="360" cy="485" r="24"/><circle cx="520" cy="560" r="22"/><circle cx="420" cy="690" r="25"/><circle cx="555" cy="760" r="19"/><circle cx="325" cy="760" r="18"/>
+  </g>
+  <g fill="#E75480">
+    <circle cx="380" cy="500" r="8"/><circle cx="535" cy="570" r="7"/><circle cx="435" cy="700" r="8"/>
+  </g>
+  <text x="450" y="966" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Floral Dress</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#EEE7FF"/>
+  <rect x="220" y="420" width="460" height="330" rx="80" fill="#F7BFD2"/>
+  <path d="M290 430h320" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="450" cy="600" r="70" fill="#FFFFFF" opacity=".82"/>
+  <path d="M450 575c-42-52-100-8-66 45 25 39 66 62 66 62s41-23 66-62c34-53-24-97-66-45Z" fill="#E75480"/>
+  <text x="450" y="940" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Makeup Pouch</text>
+</svg>

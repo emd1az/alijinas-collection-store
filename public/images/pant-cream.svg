@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF1E6"/>
+  <path d="M315 210h270l70 690H508l-58-455-58 455H245l70-690Z" fill="#FFFFFF"/>
+  <path d="M315 210h270v90H315z" fill="#F7BFD2"/>
+  <text x="450" y="990" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Wide Leg Pants</text>
+</svg>

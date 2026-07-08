@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <circle cx="180" cy="180" r="120" fill="#FFF1E6"/>
+  <circle cx="710" cy="250" r="150" fill="#EEE7FF"/>
+  <path d="M450 180c-62 0-112 50-112 112v72l-118 408c-14 48 22 96 72 96h316c50 0 86-48 72-96L562 364v-72c0-62-50-112-112-112Z" fill="#F7BFD2"/>
+  <path d="M338 348h224l54 188H284l54-188Z" fill="#fff" opacity=".62"/>
+  <path d="M365 245c42 42 128 42 170 0" fill="none" stroke="#E75480" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="960" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Blush Dress</text>
+</svg>

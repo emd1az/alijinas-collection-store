@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <path d="M245 580c76-93 178-132 300-108 90 18 152 72 205 164 24 42-2 96-50 103l-404 55c-77 11-132-72-83-133 11-14 22-40 32-81Z" fill="#F7BFD2"/>
+  <path d="M323 604h310" stroke="#FFFFFF" stroke-width="38" stroke-linecap="round"/>
+  <circle cx="430" cy="610" r="42" fill="#E75480"/><circle cx="500" cy="610" r="42" fill="#E75480"/>
+  <text x="450" y="950" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Mary Jane Shoes</text>
+</svg>

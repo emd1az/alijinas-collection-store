@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <rect x="290" y="295" width="100" height="420" rx="50" fill="#F7BFD2"/>
+  <rect x="400" y="240" width="100" height="475" rx="50" fill="#E75480"/>
+  <rect x="510" y="320" width="100" height="395" rx="50" fill="#DFF3FF"/>
+  <rect x="275" y="700" width="350" height="92" rx="46" fill="#FFFFFF"/>
+  <text x="450" y="940" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Lip Tint Set</text>
+</svg>

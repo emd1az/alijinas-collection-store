@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <circle cx="450" cy="560" r="165" fill="#FFFFFF"/>
+  <path d="M305 430l-70-115 130 55M595 430l70-115-130 55" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="18" stroke-linejoin="round"/>
+  <circle cx="390" cy="545" r="16" fill="#2B2B2B"/><circle cx="510" cy="545" r="16" fill="#2B2B2B"/>
+  <ellipse cx="450" cy="590" rx="18" ry="12" fill="#F7BFD2"/>
+  <path d="M548 395c60-32 116 26 83 83-22 38-83 72-83 72s-61-34-83-72c-33-57 23-115 83-83Z" fill="#E75480"/>
+  <text x="450" y="930" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Kitty Style</text>
+</svg>

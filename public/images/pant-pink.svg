@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <path d="M315 210h270l72 690H500l-50-430-50 430H243l72-690Z" fill="#F7BFD2"/>
+  <rect x="300" y="440" width="105" height="95" rx="24" fill="#FFFFFF" opacity=".85"/>
+  <rect x="495" y="440" width="105" height="95" rx="24" fill="#FFFFFF" opacity=".85"/>
+  <text x="450" y="990" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Pink Cargo Pants</text>
+</svg>

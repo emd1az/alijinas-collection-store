@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <rect x="215" y="420" width="470" height="350" rx="90" fill="#F7BFD2"/>
+  <path d="M330 430c0-95 52-150 120-150s120 55 120 150" fill="none" stroke="#E75480" stroke-width="30" stroke-linecap="round"/>
+  <path d="M450 610c-45-72-144-10-83 61 28 32 83 70 83 70s55-38 83-70c61-71-38-133-83-61Z" fill="#FFFFFF"/>
+  <text x="450" y="940" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Heart Bag</text>
+</svg>

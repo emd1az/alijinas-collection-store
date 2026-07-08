@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#FFF7FA"/>
+  <path d="M450 560c-115-130-260-12-160 120 74 98 160 12 160-120Zm0 0c115-130 260-12 160 120-74 98-160 12-160-120Z" fill="#F7BFD2"/>
+  <circle cx="450" cy="610" r="55" fill="#E75480"/>
+  <circle cx="360" cy="785" r="28" fill="#FFFFFF"/><circle cx="540" cy="785" r="28" fill="#FFFFFF"/>
+  <text x="450" y="950" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#2B2B2B">Bow Clip Set</text>
+</svg>
