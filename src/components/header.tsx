@@ -24,10 +24,11 @@ export function Header() {
       <header className="sticky top-0 z-40 border-b border-boutique-pink/25 bg-boutique-bg/92 backdrop-blur-xl">
         <div className="container-soft flex h-16 items-center justify-between gap-4">
           <Link href="/" className="flex min-w-0 items-center gap-2">
-            <span className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-boutique-pink text-lg font-black text-boutique-cta shadow-soft">
-              A
-            </span>
-            <span className="truncate text-lg font-black text-boutique-text sm:text-xl">{siteConfig.brandName}</span>
+  <img
+    src="/images/alijina-logo.png"
+    alt="Alijina's Collection"
+    className="h-10 w-auto object-contain sm:h-12"
+  />
           </Link>
 
           <nav className="hidden items-center gap-1 lg:flex">
