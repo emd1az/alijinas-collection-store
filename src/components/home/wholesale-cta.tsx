@@ -15,9 +15,10 @@ export function WholesaleCta() {
             <p className="mt-4 max-w-2xl text-sm leading-6 text-white/70 sm:text-base">{siteConfig.wholesale.description}</p>
             <p className="mt-2 text-sm font-semibold text-boutique-pink">{siteConfig.wholesale.note}</p>
           </div>
-          <LinkButton href="/contact" className="bg-white text-boutique-footer hover:bg-boutique-pink">
-            <MessageCircle size={18} /> Start Inquiry
-          </LinkButton>
+          <LinkButton href="/contact" className="bg-white hover:bg-boutique-pink">
+  <MessageCircle size={18} className="!text-[#1F1F1F]" />
+  <span className="!text-[#1F1F1F]">Start Inquiry</span>
+</LinkButton>
         </div>
       </div>
     </section>
